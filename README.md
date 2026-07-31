@@ -1,0 +1,19 @@
+# Bộ não thứ 2 — Hoàng Hưng
+
+Nạp từ phiếu điền offline 31/7/2026 ("Setup các lớp dữ liệu để dùng AI Agent").
+
+## Cấu trúc
+
+- [`about-me.md`](./about-me.md) — hồ sơ nền: tôi là ai, timeline, dự án, điểm mù, nút thắt, nguồn lực, người quan trọng
+- [`goals.md`](./goals.md) — mục tiêu 90 ngày và 1–3 năm
+- [`CLAUDE.md`](./CLAUDE.md) — luật vận hành, đọc tự động mỗi phiên (xưng hô, việc tự làm/hỏi trước, hard don'ts); tự nạp kèm `about-me.md` và `goals.md`
+- [`.claude/skills/viet-bai-website-htcons/SKILL.md`](./.claude/skills/viet-bai-website-htcons/SKILL.md) — skill viết & đăng bài chuẩn SEO cho xaydunghtcons.vn
+- [`data/ho-so-nen-web-xay-dung.md`](./data/ho-so-nen-web-xay-dung.md) — hồ sơ nền website xây dựng (chưa điền, cần bổ sung trước khi dùng skill)
+- [`logs/output-web-xay-dung.md`](./logs/output-web-xay-dung.md) — nhật ký kết quả các bài đăng
+
+## Bài kiểm chứng sau khi nạp
+
+Mở đoạn chat mới, hỏi:
+1. Tôi đang làm tới đâu?
+2. Nút thắt lớn nhất của tôi là gì?
+3. Mục tiêu 90 ngày của tôi là gì, đo bằng con số nào?
