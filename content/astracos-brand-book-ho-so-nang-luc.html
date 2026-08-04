@@ -23,8 +23,8 @@
     --paper-2:#EAECF1;
     --stone:#DEE1E9;
     --stone-line:#CBCFDA;
-    --ink:#0A0B22;
-    --ink-2:#14173F;
+    --ink:#34367E;
+    --ink-2:#3E4095;
     --astra:#3E4095;
     --astra-2:#5457B8;
     --astra-soft:#E4E4F5;
@@ -40,13 +40,13 @@
     --sans-body:'Montserrat Var','Montserrat',ui-sans-serif,system-ui,sans-serif;
   }
   :root[data-theme="dark"]{
-    --chrome-bg:#07081C;
+    --chrome-bg:#1E2050;
   }
   :root[data-theme="light"]{
     --chrome-bg:#D6D8E6;
   }
   @media (prefers-color-scheme: dark){
-    :root{ --chrome-bg:#07081C; }
+    :root{ --chrome-bg:#1E2050; }
   }
   @media (prefers-color-scheme: light){
     :root{ --chrome-bg:#D6D8E6; }
@@ -106,7 +106,7 @@
   }
 
   .page--light{ background:var(--paper); color:var(--text-on-light); }
-  .page--dark{ background:linear-gradient(165deg,var(--ink) 0%,var(--ink-2) 60%,#1B1E52 100%); color:var(--text-on-dark); }
+  .page--dark{ background:linear-gradient(165deg,var(--ink) 0%,var(--ink-2) 55%,#4C4FB2 100%); color:var(--text-on-dark); }
 
   .page__meta{
     display:flex; justify-content:space-between; align-items:flex-start;
@@ -178,7 +178,7 @@
     background:
       radial-gradient(120% 140% at 12% 0%, rgba(0,175,239,.35), transparent 55%),
       radial-gradient(120% 140% at 100% 100%, rgba(62,64,149,.65), transparent 55%),
-      linear-gradient(160deg,#3E4095,#181A4E 70%);
+      linear-gradient(160deg,#5457B8,#34367E 70%);
   }
   .visual img{ width:100%; height:100%; object-fit:cover; display:block; position:relative; }
   .visual::after{
