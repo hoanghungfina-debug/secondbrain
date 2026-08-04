@@ -9,6 +9,8 @@ Nạp từ phiếu điền offline 31/7/2026 ("Setup các lớp dữ liệu đ�
 - [`CLAUDE.md`](./CLAUDE.md) — luật vận hành, đọc tự động mỗi phiên (xưng hô, việc tự làm/hỏi trước, hard don'ts); tự nạp kèm `about-me.md` và `goals.md`
 - [`.claude/skills/viet-bai-website-htcons/SKILL.md`](./.claude/skills/viet-bai-website-htcons/SKILL.md) — skill viết & đăng bài chuẩn SEO cho xaydunghtcons.vn
 - [`data/ho-so-nen-web-xay-dung.md`](./data/ho-so-nen-web-xay-dung.md) — hồ sơ nền website xây dựng (chưa điền, cần bổ sung trước khi dùng skill)
+- [`data/astracos-ho-so-nen.md`](./data/astracos-ho-so-nen.md) — hồ sơ nền AstraCos (nhà máy mỹ phẩm): số liệu, chứng nhận, con người — nguồn cho brand book
+- [`content/astracos-brand-book-ho-so-nang-luc.html`](./content/astracos-brand-book-ho-so-nang-luc.html) — Brand Book & Company Profile 30 trang cho AstraCos
 - [`logs/output-web-xay-dung.md`](./logs/output-web-xay-dung.md) — nhật ký kết quả các bài đăng
 
 ## Bài kiểm chứng sau khi nạp
