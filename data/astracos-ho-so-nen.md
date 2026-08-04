@@ -51,6 +51,22 @@ Mô hình hợp tác: OEM / ODM / OBM — trọn gói từ ý tưởng đến ra
 - 2020: Xây nhà máy sản xuất mỹ phẩm (Long An)
 - 2022: Khánh thành AstraCos, đạt chuẩn CGMP ASEAN
 
+## Nhận diện thương hiệu (nguồn: "Logo Guideline AstraCos", Mixfour, 2020/2021 — sếp gửi 04/08/2026)
+
+- **Màu Blue**: HEX `#3E4095` · CMYK 100/100/0/0 · RGB 62/64/149
+- **Màu Cyan**: HEX `#00AFEF` · CMYK 100/0/0/0 · RGB 0/175/239
+- Không có màu xanh lá trong bộ nhận diện chính thức — bản nháp đầu tiên (yêu cầu ban đầu) ghi "accent xanh lá nhạt" là chưa đối chiếu với guideline thật; đã sửa lại theo đúng 2 màu Blue/Cyan ở trên.
+- Logo = chữ "A" cách điệu kết hợp hình ngôi sao, phần "r" và "a" đầu được cách điệu riêng để nhận diện/bảo hộ thương hiệu
+- Font logo: **Eastman Trial Semibold**. Font hệ thống: **SVN-Gotham** (Book cho nội dung, Bold cho nhấn mạnh) — cả hai đều là font trả phí, bản brand book dùng **Montserrat** (biến thể trọng lượng 400–900) làm phương án thay thế gần nhất do không có bản quyền font gốc
+- Logo có 2 phần: icon (chữ A/ngôi sao) + tên thương hiệu (wordmark) — dùng riêng hoặc chung theo bố cục quy định
+- Khoảng cách an toàn quanh logo = tính theo chiều cao icon; kích thước tối thiểu 25mm (in ấn) / 300px (màn hình) cho logo ngang, 10mm/50px cho icon
+- File logo vector gốc: `Logo Guideline AstraCos_Final.pdf` (sếp gửi qua chat) — tách ra 2 bản PNG nền trong tại `content/astracos-brand-book-ho-so-nang-luc.html` (bản navy dùng nền sáng, bản trắng+cyan dùng nền tối)
+
+## Ảnh thật đã dùng
+
+- Ảnh Phan Vũ Hùng tại phòng lab (đội áo blouse, cầm cốc đong) — sếp gửi qua PDF, dùng ở trang "Meet Chú Hùng"
+- **Còn thiếu**: ảnh nhà máy AstraCos chụp từ trên cao (sếp dán trực tiếp vào chat, chưa gửi dạng file đính kèm nên em chưa lấy được để nhúng) — nếu cần đúng ảnh thật ở trang Factory Overview, sếp gửi lại dạng file đính kèm
+
 ## Lưu ý khi dùng lại dữ liệu này
 
 - Không có số liệu xác thực về: danh sách nhà đầu tư/đối tác ngân hàng chính thức, số liệu doanh thu/case study cụ thể theo brand, email liên hệ chính xác (dữ liệu thô thu thập được có dấu hiệu lỗi định dạng) — brand book cố tình không đưa các chi tiết này để tránh sai lệch.
