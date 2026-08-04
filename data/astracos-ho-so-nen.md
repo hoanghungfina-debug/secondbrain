@@ -64,8 +64,10 @@ Mô hình hợp tác: OEM / ODM / OBM — trọn gói từ ý tưởng đến ra
 
 ## Ảnh thật đã dùng
 
-- Ảnh Phan Vũ Hùng tại phòng lab (đội áo blouse, cầm cốc đong) — sếp gửi qua PDF, dùng ở trang "Meet Chú Hùng"
-- **Còn thiếu**: ảnh nhà máy AstraCos chụp từ trên cao (sếp dán trực tiếp vào chat, chưa gửi dạng file đính kèm nên em chưa lấy được để nhúng) — nếu cần đúng ảnh thật ở trang Factory Overview, sếp gửi lại dạng file đính kèm
+- Ảnh Phan Vũ Hùng tại phòng lab (đội áo blouse, cầm cốc đong) — dùng ở trang "Meet Chú Hùng"
+- Ảnh nhà máy AstraCos chụp từ trên cao, KCN Tân Kim — dùng ở trang "Factory Overview"
+
+Cả hai đều do sếp gửi qua file đính kèm (PDF chứa ảnh gốc).
 
 ## Lưu ý khi dùng lại dữ liệu này
 
