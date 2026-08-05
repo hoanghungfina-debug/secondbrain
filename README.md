@@ -6,6 +6,7 @@ Nạp từ phiếu điền offline 31/7/2026 ("Setup các lớp dữ liệu đ�
 
 - [`about-me.md`](./about-me.md) — hồ sơ nền: tôi là ai, timeline, dự án, điểm mù, nút thắt, nguồn lực, người quan trọng
 - [`goals.md`](./goals.md) — mục tiêu 90 ngày và 1–3 năm
+- [`tasks.md`](./tasks.md) — nhiệm vụ đang theo dõi, đồng bộ tiến độ qua nhiều máy tính
 - [`CLAUDE.md`](./CLAUDE.md) — luật vận hành, đọc tự động mỗi phiên (xưng hô, việc tự làm/hỏi trước, hard don'ts); tự nạp kèm `about-me.md` và `goals.md`
 - [`.claude/skills/viet-bai-website-htcons/SKILL.md`](./.claude/skills/viet-bai-website-htcons/SKILL.md) — skill viết & đăng bài chuẩn SEO cho xaydunghtcons.vn
 - [`data/ho-so-nen-web-xay-dung.md`](./data/ho-so-nen-web-xay-dung.md) — hồ sơ nền website xây dựng (chưa điền, cần bổ sung trước khi dùng skill)
