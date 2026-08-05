@@ -119,7 +119,7 @@
   .page__num b{ color:var(--cyan-deep); }
   .page--dark .page__num b{ color:var(--cyan); }
 
-  .page__body{ flex:1; display:flex; flex-direction:column; justify-content:flex-start; gap:clamp(18px,2.4vw,32px); padding-top:clamp(36px,6vw,64px); }
+  .page__body{ flex:1; display:flex; flex-direction:column; justify-content:flex-start; gap:clamp(14px,2vw,26px); padding-top:clamp(24px,4vw,44px); }
 
   .eyebrow{
     font-family:var(--sans-body); font-weight:600; font-size:12.5px;
@@ -229,10 +229,10 @@
 
   .compare{ display:grid; grid-template-columns:1fr 1fr; gap:0 28px; }
   .compare__col{ display:flex; flex-direction:column; gap:16px; }
-  .compare__head{ font-family:var(--serif-display); font-weight:800; font-size:15px; padding-bottom:12px; border-bottom:1px solid rgba(255,255,255,.14); }
+  .compare__head{ font-family:var(--serif-display); font-weight:800; font-size:14px; padding-bottom:8px; border-bottom:1px solid rgba(255,255,255,.14); }
   .page--light .compare__head{ border-bottom-color:var(--stone-line); }
   .compare__head--cyan{ color:var(--cyan); }
-  .compare__row{ font-size:14.5px; line-height:1.5; padding:10px 0; border-bottom:1px dashed rgba(255,255,255,.12); }
+  .compare__row{ font-size:14.5px; line-height:1.4; padding:7px 0; border-bottom:1px dashed rgba(255,255,255,.12); }
   .page--light .compare__row{ border-bottom-color:var(--stone-line); }
   @media (max-width:700px){ .compare{ grid-template-columns:1fr; } }
 
@@ -302,12 +302,12 @@
   .close .page__body{ align-items:center; text-align:center; justify-content:center; gap:20px; }
 
   @media print{
-    @page{ size:1280px 800px; margin:0; }
+    @page{ size:1280px 1100px; margin:0; }
     html,body{ background:#fff; }
     *{ -webkit-print-color-adjust:exact !important; print-color-adjust:exact !important; color-adjust:exact !important; }
     .progress{ display:none; }
     .book{ max-width:none; padding:0; gap:0; }
-    .page{ border-radius:0; box-shadow:none; page-break-after:always; break-after:page; width:1280px; height:800px; min-height:800px; opacity:1 !important; transform:none !important; }
+    .page{ border-radius:0; box-shadow:none; page-break-after:always; break-after:page; page-break-inside:avoid; break-inside:avoid; width:1280px; height:1100px; min-height:1100px; overflow:visible; opacity:1 !important; transform:none !important; }
   }
 </style>
 
@@ -383,9 +383,9 @@
   <div class="page__meta"><span class="page__num"><b>05</b> / 30</span><span>Why AstraCos Different</span></div>
   <div class="page__body">
     <div class="eyebrow">Khác biệt</div>
-    <h2 class="headline" style="font-size:clamp(26px,3.6vw,42px);">Điều khác biệt không nằm ở nhà máy. Mà nằm ở tư duy đồng hành.</h2>
-    <p class="lede" style="margin-top:-6px;">Hầu hết các nhà máy đều giúp bạn sản xuất. AstraCos giúp bạn xây dựng một thương hiệu.</p>
-    <div class="compare" style="margin-top:4px;">
+    <h2 class="headline" style="font-size:clamp(22px,3vw,34px);">Điều khác biệt không nằm ở nhà máy. Mà nằm ở tư duy đồng hành.</h2>
+    <p class="lede" style="margin-top:-8px;font-size:15px;">Hầu hết các nhà máy đều giúp bạn sản xuất. AstraCos giúp bạn xây dựng một thương hiệu.</p>
+    <div class="compare" style="margin-top:0;">
       <div class="compare__col">
         <div class="compare__head">OEM truyền thống</div>
         <div class="compare__row">Gia công sản phẩm</div>
@@ -405,7 +405,7 @@
         <div class="compare__row">Tập trung vào thành công của Founder</div>
       </div>
     </div>
-    <blockquote class="quote" style="margin-top:6px;">Chúng tôi không đo thành công bằng số lượng sản phẩm xuất xưởng.<br>Chúng tôi đo bằng số lượng thương hiệu phát triển bền vững.</blockquote>
+    <blockquote class="quote" style="margin-top:2px;font-size:16px;">Chúng tôi không đo thành công bằng số lượng sản phẩm xuất xưởng.<br>Chúng tôi đo bằng số lượng thương hiệu phát triển bền vững.</blockquote>
   </div>
 </section>
 
