@@ -52,7 +52,7 @@ Có shop sản phẩm demo tại astracos.com.vn/shop/ (48 sản phẩm, dùng �
 |---|---|---|
 | Phan Vũ Hùng | **Founder & Tổng Giám Đốc** (đã sửa từ "Giám đốc điều hành nhà máy" — chức danh chính thức trong HSNL 2907 và thư nhà sáng lập) | Có thư ngỏ chính thức (xem bên dưới); đang xây thương hiệu cá nhân "Chú Hùng Lab" trên TikTok; là người đại diện AstraCos trong lễ ký kết với HyoJin |
 | Hoàng Hưng | Chủ tịch HĐQT | Chính là "sếp" — người dùng bộ não thứ 2 này; xem thêm about-me.md. Được báo chí gọi là Chủ tịch tại lễ khánh thành 5/2022 |
-| Hoàng Phi Huyền | Phát triển thương mại | Founder/CEO thương hiệu Huyền Phi Cosmetic; có quote công khai tại lễ khánh thành: *"Nhà máy AstraCos là nơi gửi gắm hoài bão, ước mơ của toàn thể thành viên."* |
+| Hoàng Phi Huyền | Phát triển thương mại | Founder/CEO thương hiệu Huyền Phi Cosmetic; **là vợ của Hoàng Hưng** (sếp xác nhận 19/11/2026); có quote công khai tại lễ khánh thành: *"Nhà máy AstraCos là nơi gửi gắm hoài bão, ước mơ của toàn thể thành viên."* |
 
 ### Thư ngỏ chính thức của Founder (Phan Vũ Hùng) — dùng nguyên văn ở trang 02 brand book
 
@@ -102,6 +102,14 @@ Có shop sản phẩm demo tại astracos.com.vn/shop/ (48 sản phẩm, dùng �
 | 17 — Product Categories | Ảnh demo sản phẩm thật: kem mụn, dầu gội, kem trắng da (Arbutin), dung dịch vệ sinh |
 | 18 — Packaging | Ảnh demo bao bì kem dưỡng ban ngày |
 | 25 — Strategic Partners | Ảnh lễ ký kết hợp tác AstraCos × Tập đoàn HyoJin (Hàn Quốc) |
+| 22 — Case Study | Hoàng Hưng và Hoàng Phi Huyền tại sân khấu Lễ Khánh Thành nhà máy AstraCos đạt chuẩn CGMP (ảnh: LUUHAI MEDIA, file KDN00172, lấy từ Google Drive — thư mục "Khánh Thành Astracos") |
+
+## Kho ảnh Lễ Khánh Thành trên Google Drive (nguồn ảnh "đẹp về nhà máy" sếp cung cấp 19/11/2026)
+
+- Thư mục gốc: "Khánh Thành Astracos" (chủ sở hữu luuhaimedia@gmail.com, chia sẻ với sếp), gồm 3 thư mục con M1, M2, M3 — hàng trăm ảnh sự kiện lễ khánh thành (không phải ảnh kiến trúc/sản xuất nhà máy thuần tuý), chụp bởi LUUHAI MEDIA.
+- Sếp đã tải về máy 15 ảnh chọn lọc (`C:\Document\Photos\AstraCos`): DSCF4729, DSCF5251, HAI07734, HAI08407, HAI08418, HAI08427, HAI09325, HAI09354, HAI09396, HAI09402, HAI09415, HAI09427, HAI09433, HAI09437, KDN00172.
+- Công cụ Google Drive (MCP) giới hạn tải file dưới 10MB — hầu hết các ảnh HAI*/DSCF* (11–47MB) vượt giới hạn này, chỉ xem được ảnh KDN00172 (7,7MB) qua Drive. 14 ảnh còn lại nếu cần dùng, sếp gửi trực tiếp qua đính kèm chat (không bị giới hạn 10MB).
+- Đã dùng: KDN00172 → trang 22 Case Study.
 
 ## Lưu ý khi dùng lại dữ liệu này
 
