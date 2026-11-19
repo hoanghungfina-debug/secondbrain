@@ -92,8 +92,8 @@ Có shop sản phẩm demo tại astracos.com.vn/shop/ (48 sản phẩm, dùng �
 | Trang | Ảnh |
 |---|---|
 | 02 — Thư nhà sáng lập | Phan Vũ Hùng tại phòng lab (từ Cover PDF chính thức) |
-| 04 — Beauty Startup Studio | Đội ngũ R&D trong phòng LABORATORY |
-| 08 — Chief Brand Builder | Phan Vũ Hùng tại phòng lab |
+| 04 — Beauty Startup Studio | Phan Vũ Hùng đi bộ trong khuôn viên nhà máy, vest đen (ảnh: LUUHAI MEDIA, file DSCF3750, Drive) |
+| 08 — Chief Brand Builder | Phan Vũ Hùng phát biểu trên sân khấu Lễ Khánh Thành (ảnh: LUUHAI MEDIA, file KDN00290, Drive) |
 | 12 — Factory Overview | Toàn cảnh nhà máy chụp trên cao, KCN Tân Kim |
 | 13 — Manufacturing Capacity | Dây chuyền chiết rót (ảnh chai đỏ) |
 | 14 — R&D Center | Đội ngũ nghiên cứu trong phòng LABORATORY |
@@ -101,14 +101,19 @@ Có shop sản phẩm demo tại astracos.com.vn/shop/ (48 sản phẩm, dùng �
 | 16 — CGMP | Ảnh chụp 3 chứng chỉ thật: FDA, CGMP ASEAN, ISO 9001:2015 |
 | 17 — Product Categories | Ảnh demo sản phẩm thật: kem mụn, dầu gội, kem trắng da (Arbutin), dung dịch vệ sinh |
 | 18 — Packaging | Ảnh demo bao bì kem dưỡng ban ngày |
+| 22 — Case Study | Hoàng Hưng và Hoàng Phi Huyền (vợ) tại sân khấu Lễ Khánh Thành (ảnh: LUUHAI MEDIA, file KDN00172, Drive) |
+| 24 — Our Team | Cả đội ngũ (gồm Hoàng Hưng, Phan Vũ Hùng, Hoàng Phi Huyền + nhân sự) chụp chung trên sân khấu Lễ Khánh Thành (ảnh: LUUHAI MEDIA, file KDN00175, Drive) |
 | 25 — Strategic Partners | Ảnh lễ ký kết hợp tác AstraCos × Tập đoàn HyoJin (Hàn Quốc) |
-| 22 — Case Study | Hoàng Hưng và Hoàng Phi Huyền tại sân khấu Lễ Khánh Thành nhà máy AstraCos đạt chuẩn CGMP (ảnh: LUUHAI MEDIA, file KDN00172, lấy từ Google Drive — thư mục "Khánh Thành Astracos") |
+
+Lưu ý: trước đó trang 04 và 08 từng dùng trùng ảnh phòng Lab / ảnh anh Hùng với trang 14 và 02 — sếp phát hiện và đã sửa 19/11/2026, mỗi trang giờ dùng một ảnh riêng.
 
 ## Kho ảnh Lễ Khánh Thành trên Google Drive (nguồn ảnh "đẹp về nhà máy" sếp cung cấp 19/11/2026)
 
-- Thư mục gốc: "Khánh Thành Astracos" (chủ sở hữu luuhaimedia@gmail.com, chia sẻ với sếp), gồm 3 thư mục con M1, M2, M3 — hàng trăm ảnh sự kiện lễ khánh thành (không phải ảnh kiến trúc/sản xuất nhà máy thuần tuý), chụp bởi LUUHAI MEDIA.
+- Thư mục gốc: "Khánh Thành Astracos" (chủ sở hữu luuhaimedia@gmail.com, chia sẻ với sếp), gồm 3 thư mục con M1 (KDN*), M2 (DSCF*), M3 (HAI*) — hàng trăm ảnh sự kiện lễ khánh thành (không phải ảnh kiến trúc/sản xuất nhà máy thuần tuý), chụp bởi LUUHAI MEDIA.
 - Sếp đã tải về máy 15 ảnh chọn lọc (`C:\Document\Photos\AstraCos`): DSCF4729, DSCF5251, HAI07734, HAI08407, HAI08418, HAI08427, HAI09325, HAI09354, HAI09396, HAI09402, HAI09415, HAI09427, HAI09433, HAI09437, KDN00172.
-- Công cụ Google Drive (MCP) giới hạn tải file dưới 10MB — hầu hết các ảnh HAI*/DSCF* (11–47MB) vượt giới hạn này, chỉ xem được ảnh KDN00172 (7,7MB) qua Drive. 14 ảnh còn lại nếu cần dùng, sếp gửi trực tiếp qua đính kèm chat (không bị giới hạn 10MB).
+- Công cụ Google Drive (MCP) giới hạn tải file dưới 10MB. Đã tìm và dùng thêm được các ảnh dưới 10MB khác trong cùng thư mục Drive (không nằm trong 15 ảnh sếp tải sẵn): KDN00290 (anh Hùng phát biểu), KDN00175 (ảnh nhóm cả đội ngũ), DSCF3750 (anh Hùng đi bộ ngoài nhà máy).
+- Đã xem nhưng **không dùng** (ảnh có mặt trẻ em, nhạy cảm cho tài liệu gửi nhà đầu tư — cần sếp xác nhận mới dùng): HAI09627, HAI06669. Còn HAI06535 (ảnh anh Hùng đi bộ, gần giống DSCF3750) xem rồi nhưng chưa dùng vì trùng góc với DSCF3750.
+- Vẫn còn rất nhiều ảnh khác trong 3 thư mục M1/M2/M3 (hàng trăm file) chưa xem hết vì hầu hết vượt 10MB. Nếu cần thêm, gửi trực tiếp qua đính kèm chat (không bị giới hạn 10MB) hoặc nhờ nén nhỏ lại trên Drive.
 - Đã dùng: KDN00172 → trang 22 Case Study.
 
 ## Lưu ý khi dùng lại dữ liệu này
